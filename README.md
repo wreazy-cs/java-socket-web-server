@@ -4,6 +4,10 @@ Sadece Java standart kütüphanesi ve soket programlama kullanılarak yazılmı�
 
 Bu proje bir Nesneye Yönelik Programlama dersi ödevi olarak hazırlanmıştır.
 
+## Ekran Görüntüsü
+
+![Tarayıcıda http://localhost:1989 görünümü](docs/ekran-goruntusu.png)
+
 ## Özellikler
 
 - `java.net.ServerSocket` ile 1989 portunda bağlantı kabul eder
